@@ -1,0 +1,49 @@
+html, body {min-height:100%;margin:0;}
+
+body {
+    background: #213b50;
+	text-align: center;
+    background: linear-gradient(100deg, #003300, #ffcc00, #000099);
+    color: #b31aff;
+}
+input {
+    background-color: #2b4a64;
+	border: 2px solid #bca07c;
+    font-size: 12px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px #107214;
+}
+input:hover{
+    background-color: #4e708c;
+}
+input:focus{
+	color: #e65c00;
+}
+select {
+    background-color: #2b4a64;
+    color: #e65c00;
+	border: 2px solid #bca07c;
+    font-size: 12px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px #107214;
+}
+textarea {
+    background-color: #2b4a64;
+	border: 2px solid #bca07c;
+    font-size: 12px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px #107214;
+    
+}
+[type="submit"] {
+    background-color: #1ac056;
+    color: #1aff1a;
+    font-size: 30px;
+    
+}
+::placeholder {
+	color: #0000ff;
+}
+#male {
+	background-color: red;
+}
