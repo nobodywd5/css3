@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+    background: linear-gradient(45deg, #003300, #000099);
+}
+button {
+    font-size: 75px;
+}
