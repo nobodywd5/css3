@@ -1,0 +1,19 @@
+[title] {
+    color: #00cc00;
+    
+}
+[="Kontakt"] {
+    color: #00cc00;
+}
+[title*="tainer"] {
+    color:aqua;
+}
+[title^="More"] {
+    color:blueviolet;
+}
+[title$="skills"] {
+    background-color: cadetblue;
+}
+li:first-child {
+    color:red;
+}
