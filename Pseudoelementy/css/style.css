@@ -1,0 +1,8 @@
+p::before {
+    color: blue;
+    content: "***";
+}
+p::after {
+    color: aqua;
+    content: "***";
+}
