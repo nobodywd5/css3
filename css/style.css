@@ -1,0 +1,20 @@
+* {
+    color: blue;
+}
+p {
+    color: blueviolet;
+    background: linear-gradient(#000000, #00cc00);
+}
+#a {
+    color:aqua;
+}
+.lorak{
+    color: red;
+}
+ul a {
+    color: cadetblue;
+}
+li > a{
+    background: linear-gradient(to left top, white, black);
+    margin: 5px;
+}
