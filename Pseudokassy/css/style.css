@@ -1,0 +1,19 @@
+#name:hover{
+    background-color: aqua;
+}
+#send:focus{
+  background-color: blueviolet;
+}
+
+.customer:first-child{
+     color:blue;
+    
+}
+
+.customer:last-child {
+color: red;
+}
+
+.customer:nth-last-of-type(6){
+    color:blueviolet;
+}
